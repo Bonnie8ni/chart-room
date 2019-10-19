@@ -1,6 +1,6 @@
 ## 範例網址
 
-https://bonnie8ni.github.io/char-room/
+https://bonnie8ni.github.io/chat-room/
 
 ## sample
 
